@@ -1,3 +1,3 @@
 # JointDiT-code
-This is the repository that contains source code for the ArXiv 2025 paper, JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers.
-
+This repository contains the source code for our ICCV 2025 paper, JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers.
+The code will be fully released before mid-July!
