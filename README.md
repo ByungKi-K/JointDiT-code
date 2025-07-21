@@ -9,4 +9,3 @@ You can now access the official implementation at the following link:
 
 👉 https://github.com/kaist-ami/JointDiT
 
-|
